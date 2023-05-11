@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(192, 254, 234);
+}
+
+.container ul{
+    list-style: none;
+    display: flex;
+}
+
+.container li a{
+    text-decoration: none;
+    padding: 14px;
+}
+
+.note-container{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(112, 48, 48);
+}
